@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Project\MovieType\MovieType\bin\Debug\MovieType.exe.config
+C:\Users\user\Desktop\Project\MovieType\MovieType\bin\Debug\MovieType.exe
+C:\Users\user\Desktop\Project\MovieType\MovieType\bin\Debug\MovieType.pdb
+C:\Users\user\Desktop\Project\MovieType\MovieType\bin\Debug\CKIP.dll
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.Form1.resources
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.Properties.Resources.resources
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.exe
+C:\Users\user\Desktop\Project\MovieType\MovieType\obj\Debug\MovieType.pdb
